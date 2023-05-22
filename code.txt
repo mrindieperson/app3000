@@ -1,5 +1,8 @@
 stroka = input()
-print(stroka)
+print(sumStrings("lupa", "pupa")
 
 def sumNumbers(a, b):
 	return a + b
+	
+def sumStrings(a, b):
+	return a + ":" + b
